@@ -1,7 +1,7 @@
 import re
 print("Hello Everyone! This is magical calculator")
 print("For exit the Window type 'Quit' \n")
-previous=0 #intialise previous equal to 0 firs
+previous=0 #intialise previous equal to 0 
 run= True
 def calculator():
     global previous
